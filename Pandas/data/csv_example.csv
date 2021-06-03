@@ -1,8 +1,3 @@
-name,age,designation
-a,20,VP
-b,27,CEO
-c,35,CFO
-d,55,VP
-e,18,VP
-f,21,CEO
-g,35,MD
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc914ba8be5344a76c0e4b54873fb5f48d0ee747008aa790ad357833918316cc
+size 88
