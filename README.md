@@ -5,6 +5,7 @@ A repository of collected lessons on the development of Data Science skills
 * Python Fundamental Topics
 * APIs and Other Data Types
 * Relational Databases (RDBMS) and Structured Query Language (SQL)
+* Pandas
 
 ## Current Progress
-* Pandas
+* More in SQL (W01D01)
