@@ -8,4 +8,4 @@ A repository of collected lessons on the development of Data Science skills
 * Pandas
 
 ## Current Progress
-* More in SQL (W01D01)
+* More in SQL (W02D01)
