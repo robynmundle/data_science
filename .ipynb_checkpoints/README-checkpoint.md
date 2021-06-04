@@ -8,4 +8,4 @@ A repository of collected lessons on the development of Data Science skills
 * Pandas
 
 ## Current Progress
-* 
+* Probability and Statistics
