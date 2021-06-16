@@ -7,6 +7,7 @@ A repository of collected lessons on the development of Data Science skills
 * Relational Databases (RDBMS) and Structured Query Language (SQL)
 * Pandas
 * Probability and Statistics
+* Regex
 
 ## Current Progress
-* 
+* Data Visualizations
