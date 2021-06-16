@@ -6,6 +6,7 @@ A repository of collected lessons on the development of Data Science skills
 * APIs and Other Data Types
 * Relational Databases (RDBMS) and Structured Query Language (SQL)
 * Pandas
+* Probability and Statistics
 
 ## Current Progress
-* Probability and Statistics (W02D05)
+* 
