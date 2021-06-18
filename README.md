@@ -8,7 +8,7 @@ A repository of collected lessons on the development of Data Science skills
 * Pandas
 * Probability and Statistics
 * Regex
-* Data Visualizations - Matplotlib, Seaborn and Plotly
+* Data Visualizations - Matplotlib (2D, 3D & Stateless), Seaborn, Plotly + Widgets
 
 ## Current Progress
-* Data Visualizations - 3D and Widgets
+* Machine Learning
